@@ -107,6 +107,6 @@ This project is licensed under the **MIT License**. You can view the license [he
 
 If you have any questions or feedback, feel free to reach out: SurajReddy18
 
-* **Email**: [surajreddy107@gmail.com](mailto:tnehalreddy@gmail.com)
-* **GitHub**: [SurajReddy18](https://github.com/tnehalreddy)
+* **Email**: [tnehalreddy@gmail.com](mailto:tnehalreddy@gmail.com)
+* **GitHub**: [tnehalreddy](https://github.com/tnehalreddy)
 
