@@ -101,7 +101,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## License
 
-This project is licensed under the **MIT License**. You can view the license [here]()
+This project is licensed under the **MIT License**. You can view the license [here](https://github.com/tnehalreddy/CarPricePrediction/blob/main/LICENSE)
 
 ## Contact
 
