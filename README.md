@@ -56,7 +56,7 @@ A machine learning-based project to predict car prices based on various features
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SurajReddy18/CarPricePrediction.git
+   git clone https://github.com/tnehalreddy/CarPricePrediction.git
    ```
 
 2. Navigate to the project directory:
@@ -105,7 +105,7 @@ This project is licensed under the **MIT License**. You can view the license [he
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out: SurajReddy18
+If you have any questions or feedback, feel free to reach out: tnehalreddy
 
 * **Email**: [tnehalreddy@gmail.com](mailto:tnehalreddy@gmail.com)
 * **GitHub**: [tnehalreddy](https://github.com/tnehalreddy)
