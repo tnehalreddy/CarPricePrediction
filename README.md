@@ -105,7 +105,7 @@ This project is licensed under the **MIT License**. You can view the license [he
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out: tnehalreddy
+If you have any questions or feedback, feel free to reach out:
 
 * **Email**: [tnehalreddy@gmail.com](mailto:tnehalreddy@gmail.com)
 * **GitHub**: [tnehalreddy](https://github.com/tnehalreddy)
